@@ -12,7 +12,7 @@
     - Microsoft Edge: [Tampermonkey](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) or [Violentmonkey](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao)  
     - Opera: [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/)  
 
-2. Instalar Script **<a href="https://openuserjs.org/scripts/herrmannjob/Deletar_mensagens_em_massa_no_Discord" target="_blank">Via OpenUserJS</a> ou <a href="https://greasyfork.org/pt-BR/scripts/430971-deletar-mensagens-em-massa-no-discord" target="_blank">Via GreasyFork</a>**
+2. Instalar Script **<a href="https://openuserjs.org/scripts/herrmannjob/Deletar_mensagens_em_massa_no_Discord" target="_blank">Via OpenUserJS</a>**
 
 3. Abra o <a href="https://discord.com/channels/@me" target="_blank">Discord</a> em seu __navegador__ (não no aplicativo ou software) e vá para o Canal/Conversa que deseja deletar.
 
