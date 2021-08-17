@@ -23,8 +23,6 @@
 
 6. Clique em **COMEÇAR**.
 
-![Screenshot](https://user-images.githubusercontent.com/3372598/86538983-b60c7980-becf-11ea-8cad-1a33950e77fc.gif)
-
 Eu fiz essa ferramenta em português para ajudar ❤️ , seria maravilhoso se tu clicasse no [⭐️ Botão Estrela](https://github.com/herrmannjob/deletarMensagensDiscord) at the top! 
    
 Caso precise de ajuda ou queira relatar uma falha [abra uma falha aqui](https://github.com/herrmannjob/deletarMensagensDiscord/issues)
